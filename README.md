@@ -26,6 +26,7 @@ ImageMask-Dataset-Offline-Augmentation-Tool</a> and
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 our dataset appear similar to the ground truth masks.<br>
+<b>rgb_map (Neo:yellow,   RetCam: cyan)</b><br>
 <br>
 <table>
 <tr>
@@ -312,7 +313,7 @@ python ../../../src/TensorFlowFlexUNetInferencer.py ./train_eval_infer.config
 <br>
 <hr>
 <b>Enlarged images and masks </b><br>
-
+<b>rgb_map (Neo:yellow,   RetCam: cyan)</b><br>
 <table>
 <tr>
 <th>Image</th>

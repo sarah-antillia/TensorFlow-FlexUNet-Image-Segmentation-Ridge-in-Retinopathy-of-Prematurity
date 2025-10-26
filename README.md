@@ -90,10 +90,10 @@ CC BY 4.0
 <h3>
 2 HVDROPDB Ridge ImageMask Dataset
 </h3>
-<h4>2.1 Download HVDROPDB-Ridge-PNG-ImageMask-Dataset</h4>
+<h4>2.1 Download HVDROPDB-Ridge-ImageMask-Dataset</h4>
  If you would like to train this HVDROPDB-Ridge Segmentation model by yourself,
  please download  our dataset <a href="https://drive.google.com/file/d/1h-RYrq3zd69z0-FWnMrW-SIVAD6yZJQF/view?usp=sharing">
- Augmented-HVDROPDB-Ridge-PNG-ImageMask-Dataset.zip  </a> on the google drive
+ Augmented-HVDROPDB-Ridge-ImageMask-Dataset.zip  </a> on the google drive
 , expand the downloaded and put it under <b>./dataset</b> folder to be.<br>
 <pre>
 ./dataset
